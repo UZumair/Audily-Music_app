@@ -1,7 +1,18 @@
-# Audily-Music_app
- Audily, a music streaming app I built from scratch using Python, Streamlit, and MySQL! 
- 🎵💻 The goal was to create a real-life inspired music app where users can:
- ✅ Browse a collection of songs 
- ✅ Play their favorite tracks 
- ✅ Comment on each song they listen to  
- ✅ Enjoy a smooth login/signup
+# Audily Music Streaming Platform
+
+A modern music streaming application with MySQL database integration.
+
+## Features
+- User authentication (login/registration)
+- Music browsing by song, artist, or genre
+- Playlist creation and management
+- Song upload functionality
+- Trending analytics dashboard
+- Admin panel for content management
+
+## Setup Instructions
+
+1. Create a virtual environment:
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # On Windows use: venv\Scripts\activate
